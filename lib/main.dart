@@ -23,7 +23,7 @@ void main() {
                   itemCount: snapshot.data.length,
                   itemBuilder: (BuildContext context, int index){
                     Map wppost = snapshot.data[index];
-                    var imageUrl = (wppost['_embedded']['wp:featuredmedia'] != null) ? wppost['_embedded']['wp:featuredmedia'][0]['source_url'] : 'https://www.tellerreport.com/images/no-image.png';
+                    var imageUrl = (wppost['_embedded']['wp:featuredmedia'] != null) ? wppost['_embedded']['wp:featuredmedia'][0]['source_url'] : 'https://www.blog.ruvem.ru/noimage-420x273.jpg';
                     return Card(
                       child: Padding(
                         padding: const EdgeInsets.only(left: 0,right: 0,top: 5,bottom: 5),
