@@ -4,6 +4,8 @@ A new Flutter application.
 
 [debug verison app](http://blog.ruvem.ru/app-debug.apk)
 
+для вывода постов используется Wordpress Rest Api
+
 Функционал:
 - Бургер меню
 - Вывод новостей с вп(rest api)
