@@ -1,4 +1,4 @@
-<H1>SEE NEW VERISON TEAMPLATE APP - https://github.com/Malyshevv/MalyhsevBlogV2 </H1>
+<H1>SEE NEW VERISON TEMPLATE APP - https://github.com/Malyshevv/MalyhsevBlogV2 </H1>
 
 
 # MalyshevBlog - this is dev version, not prod.
